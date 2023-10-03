@@ -247,15 +247,45 @@
 
 
 
-  
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180845067-1"></script>
 <script>
-  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','G-QCTY9TPXS8');
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-180845067-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
 </script>
 
+
+  
 
 
   
@@ -775,7 +805,6 @@
   </span>
   (2021).
   <a href="/publication/secureimgstego/">SecureImgStego: A Keyed Shuffling Encryption-based Deep Learning Model for Secure Image Steganography</a>.
-  IEEE CNS 2023.
   
   <p>
 
@@ -789,6 +818,10 @@
   
 
 
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/secureimgstego/SecureImgStego.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -812,6 +845,14 @@
 
 
 
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/secureimgstego/SecureImgStego_CNS2023_slide.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
 
 
 
