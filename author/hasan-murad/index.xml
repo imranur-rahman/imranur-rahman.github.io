@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hasan Murad | Imranur Rahman</title>
+    <link>https://imranur-rahman.github.io/author/hasan-murad/</link>
+      <atom:link href="https://imranur-rahman.github.io/author/hasan-murad/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hasan Murad</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 May 2021 15:01:01 +0600</lastBuildDate>
+    <image>
+      <url>https://imranur-rahman.github.io/images/icon_hu38b2884e3c147f04e859e7e0c6969e68_22111_512x512_fill_lanczos_center_3.png</url>
+      <title>Hasan Murad</title>
+      <link>https://imranur-rahman.github.io/author/hasan-murad/</link>
+    </image>
+    
+    <item>
+      <title>SecureImgStego: A Keyed Shuffling Encryption-based Deep Learning Model for Secure Image Steganography</title>
+      <link>https://imranur-rahman.github.io/publication/secureimgstego/</link>
+      <pubDate>Mon, 17 May 2021 15:01:01 +0600</pubDate>
+      <guid>https://imranur-rahman.github.io/publication/secureimgstego/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

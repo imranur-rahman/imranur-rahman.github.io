@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abu Sifat Chanchal | Imranur Rahman</title>
+    <link>https://imranur-rahman.github.io/author/abu-sifat-chanchal/</link>
+      <atom:link href="https://imranur-rahman.github.io/author/abu-sifat-chanchal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Abu Sifat Chanchal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 May 2017 09:04:55 +0600</lastBuildDate>
+    <image>
+      <url>https://imranur-rahman.github.io/images/icon_hu38b2884e3c147f04e859e7e0c6969e68_22111_512x512_fill_lanczos_center_3.png</url>
+      <title>Abu Sifat Chanchal</title>
+      <link>https://imranur-rahman.github.io/author/abu-sifat-chanchal/</link>
+    </image>
+    
+    <item>
+      <title>Diabetic Prediction on Patient Data Maintaining Privacy</title>
+      <link>https://imranur-rahman.github.io/publication/diabetes-prediction-poster/</link>
+      <pubDate>Thu, 18 May 2017 09:04:55 +0600</pubDate>
+      <guid>https://imranur-rahman.github.io/publication/diabetes-prediction-poster/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
