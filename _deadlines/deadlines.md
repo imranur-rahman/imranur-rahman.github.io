@@ -1,5 +1,6 @@
 ---
 title: "Year-Round Deadlines"
+collection: deadlines
 ---
 
 
