@@ -1,5 +1,5 @@
 ---
-title: "Year-Round Deadlines"
+title: "Year-Round Deadline"
 collection: deadlines
 ---
 
