@@ -17,9 +17,9 @@ June                | [ASE (7\'\*)](https://conf.researchr.org/home/ase-2024)   
 July                |                       |  [NDSS (10\*)](https://www.ndss-symposium.org/ndss2025/submisions/call-for-papers/)
 August              | [ICSE (2\'\*)](https://conf.researchr.org/home/icse-2025)                 | 
 September           | [FSE (12\')](https://conf.researchr.org/track/fse-2025/fse-2025-research-papers),  [ICST (25\')](https://conf.researchr.org/track/icst-2025/icst-2025-papers#Call-for-Papers)     | [USENIX (4)](https://www.usenix.org/conference/usenixsecurity25), [SaTML (18)](https://satml.org/participate-cfp/), [AsiaCCS (20)](https://asiaccs2025.hust.edu.vn/call-for-papers/)
-October             | [SANER (11\')](https://conf.researchr.org/track/saner-2025/saner-2025-papers)                | [EuroS&P (24\')](https://eurosp2025.ieee-security.org/cfp.html)
+October             | [SANER (11\')](https://conf.researchr.org/track/saner-2025/saner-2025-papers), [ISSTA (31)](https://conf.researchr.org/track/issta-2025/issta-2025-papers#Call-for-Papers)                | [EuroS&P (24\')](https://eurosp2025.ieee-security.org/cfp.html)
 November            |  [ICPC (9\')](https://conf.researchr.org/track/icpc-2025/icpc-2025-research)          | [S&P (14)](https://sp2025.ieee-security.org/cfpapers.html), [WiSec (9\*)](https://wisec2024.kaist.ac.kr/)
-December            | [ISSTA (15\*)](https://conf.researchr.org/home/issta-2024)                      | 
+December            |                       | 
 
 
 
