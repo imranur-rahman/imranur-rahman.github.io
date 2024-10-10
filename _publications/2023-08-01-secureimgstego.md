@@ -7,6 +7,7 @@ date: 2023-08-01
 venue: '2023 IEEE Conference on Communications and Network Security (CNS)'
 slidesurl: 'https://imranur-rahman.github.io/files/SecureImgStego_CNS2023_slide.pdf'
 paperurl: 'https://imranur-rahman.github.io/files/SecureImgStego.pdf'
+codeurl: 'https://github.com/imranur-rahman/secureimgstego'
 citation: '@inproceedings{chakraborty2023secureimgstego,
   title={SecureImgStego: A Keyed Shuffling-based Deep Learning Model for Secure Image Steganography},
   author={Chakraborty, Trishna and Rahman, Imranur and Murad, Hasan and Hossain, Md Shohrab and Mehnaz, Shagufta},
