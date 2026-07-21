@@ -45,19 +45,11 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Patents
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Chakraborty, T., Hossain, M.I., Hossain, M.J., Rahman, I. "Electronic device and control method therefor." US Patent App. 19/184,769, 2025.
+
 Service and leadership
 ======
 * Artifact Evaluation Committee Member: Wisec '22, '23, CCS '23, '24, USENIX Security '22, '23, '24, PETS '23, '25, OSDI '23, USENIX ATC '23

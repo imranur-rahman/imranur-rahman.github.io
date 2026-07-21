@@ -3,7 +3,7 @@ title: "What's in a Package? Getting Visibility Into Dependencies Using Security
 collection: publications
 permalink: /publication/2024-09-20-sensitive-api
 excerpt: 'We made a list of Security Sensitive APIs in Java using JDK documentation, past CVE fixes, and CWE examples. We then measured the prevalence of these Security-Sensitive API usage in our chosen 45 Java packages and in their dependencies. We finally conducted a developer survey to validate whether security-sensitive API information can be helpful in selecting dependencies.'
-date: 2024-03-22
+date: 2024-08-05
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/2408.02846'
 # citation: '@misc{rahman2024moremixedmethodsstudysecuritysensitive,

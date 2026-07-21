@@ -1,5 +1,5 @@
 ---
-title: "How Quickly Do Developers Update Their Vulnerable Dependencies?"
+title: "How Quickly Do Development Teams Update Their Vulnerable Dependencies?"
 collection: publications
 permalink: /publication/2024-03-22-characterizing-dependency
 excerpt: 'We quantified the updatedness of dependencies and updatedness of vulnerable dependencies in the context of open source dependencies in this project. The idea is very common in Reliability domain (e.g., Mean-Time-To-Update, Mean-Time-To-Repair, Mean-Time-To-Remediate). We did a large-scale study of our proposed update metrics in NPM, PyPI, and Cargo packages.'
