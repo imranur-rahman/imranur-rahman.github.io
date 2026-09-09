@@ -1,0 +1,13 @@
+{% include base_path %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<li class="pub-compact__item">
+  <span class="pub-compact__title"><a href="{{ base_path }}{{ post.url }}">{{ title }}</a></span>
+  {% if post.venue %}<span class="pub-compact__venue">{{ post.venue }}</span>{% endif %}
+  {% if post.paperurl %}<a class="pub-compact__link" href="{{ post.paperurl }}">Paper</a>{% endif %}
+</li>
