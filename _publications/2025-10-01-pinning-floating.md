@@ -6,6 +6,7 @@ excerpt: 'An empirical comparison of pinning vs. floating dependency declaration
 date: 2025-10-01
 venue: '40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025'
 paperurl: 'https://doi.org/10.48550/arXiv.2510.08609'
+eventurl: 'https://conf.researchr.org/details/ase-2025/ase-2025-papers/232/Which-Is-Better-For-Reducing-Outdated-And-Vulnerable-Dependencies-Pinning-Or-Floatin'
 first_author: true
 ---
 

@@ -6,6 +6,7 @@ excerpt: 'An open-source dataset of resolved package dependency graphs at histor
 date: 2026-07-15
 venue: 'ICSME 2026 Tool Demonstration and Data Showcase Track'
 paperurl: 'https://arxiv.org/abs/2607.15315'
+eventurl: 'https://conf.researchr.org/details/icsme-2026/icsme-2026-tool-demonstration/25/CHRONO-RESOLUTION-A-Dependency-Resolution-Dataset-at-Release-Points-for-npm-PyPI-a'
 first_author: true
 ---
 

@@ -47,7 +47,7 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-        {% if page.citation or page.paperurl or page.slidesurl or page.codeurl or page.datasetlink or page.openaccessurl %}
+        {% if page.citation or page.paperurl or page.slidesurl or page.codeurl or page.datasetlink or page.openaccessurl or page.eventurl %}
           <p style="font-size: smaller">
             {% if page.citation %}Recommended citation: {{ page.citation }}<br />{% endif %}
             {% assign pub_link_count = 0 %}
@@ -56,6 +56,7 @@ layout: default
             {% if page.slidesurl %}{% if pub_link_count > 0 %} | {% endif %}<a href="{{ page.slidesurl }}">Download Slides</a>{% assign pub_link_count = pub_link_count | plus: 1 %}{% endif %}
             {% if page.codeurl %}{% if pub_link_count > 0 %} | {% endif %}<a href="{{ page.codeurl }}">Code</a>{% assign pub_link_count = pub_link_count | plus: 1 %}{% endif %}
             {% if page.datasetlink %}{% if pub_link_count > 0 %} | {% endif %}<a href="{{ page.datasetlink }}">Dataset</a>{% assign pub_link_count = pub_link_count | plus: 1 %}{% endif %}
+            {% if page.eventurl %}{% if pub_link_count > 0 %} | {% endif %}<a href="{{ page.eventurl }}">Conference Page</a>{% assign pub_link_count = pub_link_count | plus: 1 %}{% endif %}
           </p>
         {% endif %}
 
