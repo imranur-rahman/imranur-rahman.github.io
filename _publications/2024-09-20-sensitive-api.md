@@ -6,6 +6,7 @@ excerpt: 'We made a list of Security Sensitive APIs in Java using JDK documentat
 date: 2024-08-05
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/2408.02846'
+first_author: true
 # citation: '@misc{rahman2024moremixedmethodsstudysecuritysensitive,
 #       title={Less Is More: A Mixed-Methods Study on Security-Sensitive API Calls in Java for Better Dependency Selection}, 
 #       author={Imranur Rahman and Ranidya Paramitha and Henrik Plate and Dominik Wermke and Laurie Williams},

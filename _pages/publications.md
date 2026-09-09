@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>. Entries tagged <span class="pub-compact__badge">First author</span> are first-authored by me.</div>
 {% endif %}
 
 {% include base_path %}
@@ -39,6 +39,17 @@ author_profile: true
 }
 .pub-compact__title a:hover {
   text-decoration: underline;
+}
+.pub-compact__badge {
+  display: inline-block;
+  margin-left: 0.5em;
+  padding: 0.05em 0.5em;
+  border-radius: 1em;
+  background: #eef6ee;
+  color: #2f7a3d;
+  font-size: 0.72em;
+  font-weight: 600;
+  vertical-align: middle;
 }
 .pub-compact__venue {
   display: block;

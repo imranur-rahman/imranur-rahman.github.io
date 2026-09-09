@@ -8,6 +8,7 @@
 
 <li class="pub-compact__item">
   <span class="pub-compact__title"><a href="{{ base_path }}{{ post.url }}">{{ title }}</a></span>
+  {% if post.first_author %}<span class="pub-compact__badge" title="First-authored by Imranur Rahman">First author</span>{% endif %}
   {% if post.venue %}<span class="pub-compact__venue">{{ post.venue }}</span>{% endif %}
   {% if post.paperurl %}<a class="pub-compact__link" href="{{ post.paperurl }}">Paper</a>{% endif %}
 </li>
