@@ -27,8 +27,8 @@ author:
   bio              : "PhD Student in Computer Science at the NC State"
   location         : "Raleigh, NC, USA"
   employer         : "North Carolina State University"
-  uri              : "https://www.csc.ncsu.edu/"
-  email            : "irahman3@ncsu.edu" 
+  uri              : # URL
+  email            : "irahman3@ncsu.edu"
 
   # Academic websites
   arxiv            : "https://arxiv.org/search/cs?searchtype=author&query=Rahman,+I"
@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-9414-8756"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Imranur-Rahman"
+  researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -48,14 +48,14 @@ author:
   stackoverflow    : "3450691/imranur-rahman" # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  facebook         : "irshimul"
+  facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
-  lastfm           : "s.h.i.m.u.l"
+  lastfm           : # Username
   linkedin         : "imranur-rahman-shimul"
   mastodon         : # URL
   medium           : # URL
