@@ -6,6 +6,7 @@ excerpt: 'A case study on metrics that inform selection of security controls.'
 date: 2025-06-11
 venue: 'Journal of Information Security and Applications'
 paperurl: 'https://doi.org/10.1016/j.jisa.2025.104056'
+codeurl: 'https://github.com/imranur-rahman/security-metrics'
 ---
 
 This case study explores metrics that help practitioners make informed choices about security controls.

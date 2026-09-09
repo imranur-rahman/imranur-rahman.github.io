@@ -7,6 +7,7 @@ date: 2026-03-22
 venue: 'arxiv'
 first_author: true
 paperurl: 'https://arxiv.org/abs/2403.17382'
+codeurl: 'https://github.com/imranur-rahman/dependency-update-metrics'
 # citation: '@article{rahman2024characterizing,
 #   title={Characterizing Dependency Update Practice of NPM, PyPI and Cargo Packages},
 #   author={Rahman, Imranur and Zahan, Nusrat and Magill, Stephen and Enck, William and Williams, Laurie},

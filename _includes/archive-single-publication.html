@@ -11,4 +11,8 @@
   {% if post.first_author %}<span class="pub-compact__badge" title="First-authored by Imranur Rahman">First author</span>{% endif %}
   {% if post.venue %}<span class="pub-compact__venue">{{ post.venue }}</span>{% endif %}
   {% if post.paperurl %}<a class="pub-compact__link" href="{{ post.paperurl }}">Paper</a>{% endif %}
+  {% if post.openaccessurl %}<a class="pub-compact__link" href="{{ post.openaccessurl }}">Open Access</a>{% endif %}
+  {% if post.slidesurl %}<a class="pub-compact__link" href="{{ post.slidesurl }}">Slides</a>{% endif %}
+  {% if post.codeurl %}<a class="pub-compact__link" href="{{ post.codeurl }}">Code</a>{% endif %}
+  {% if post.datasetlink %}<a class="pub-compact__link" href="{{ post.datasetlink }}">Dataset</a>{% endif %}
 </li>
