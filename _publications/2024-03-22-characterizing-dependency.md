@@ -8,9 +8,9 @@ venue: 'arxiv'
 first_author: true
 paperurl: 'https://arxiv.org/abs/2403.17382'
 codeurl: 'https://github.com/imranur-rahman/dependency-update-metrics'
-# citation: '@article{rahman2024characterizing,
-#   title={Characterizing Dependency Update Practice of NPM, PyPI and Cargo Packages},
-#   author={Rahman, Imranur and Zahan, Nusrat and Magill, Stephen and Enck, William and Williams, Laurie},
+# citation: '@article{rahman2024quickly,
+#   title={How Quickly Do Development Teams Update Their Vulnerable Dependencies?},
+#   author={Rahman, Imranur and Paramitha, Ranindya and Zahan, Nusrat and Enck, William and Williams, Laurie},
 #   journal={arXiv preprint arXiv:2403.17382},
 #   year={2024}
 # }'
