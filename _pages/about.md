@@ -17,7 +17,7 @@ Tools
 ======
 
 <table style="table-layout: fixed;">
-  <colgroup><col style="width: 33%;"><col style="width: 34%;"><col style="width: 33%;"></colgroup>
+  <colgroup><col style="width: 33%;"><col style="width: 50%;"><col style="width: 17%;"></colgroup>
   <thead><tr><th>Tool</th><th>Description</th><th>Links</th></tr></thead>
   <tbody>
     <tr><td style="overflow-wrap: anywhere;"><strong>dependency-update-metrics</strong></td><td>A tool that analyzes time-to-update (TTU) and time-to-remediate (TTR) metrics for package dependencies across npm, PyPI, and Cargo.</td><td><a href="https://pypi.org/project/dependency-update-metrics/">PyPI</a><br><a href="https://imranur-rahman.github.io/dependency-update-metrics/">Website</a><br><a href="https://github.com/imranur-rahman/dependency-update-metrics">GitHub</a></td></tr>
@@ -26,9 +26,3 @@ Tools
     <tr><td style="overflow-wrap: anywhere;"><strong>International Bridge Scoring</strong></td><td>A web app to keep the score in International Bridge games.</td><td><a href="https://imranur-rahman.github.io/international-bridge-point-scoring/">Website</a><br><a href="https://github.com/imranur-rahman/international-bridge-point-scoring">GitHub</a></td></tr>
   </tbody>
 </table>
-
-On this site
-======
-* [CV](/cv/)
-* [Publications](/publications/)
-* [Year-Round Deadlines](/deadlines/): paper deadlines and schedules for software engineering, security, and AI/NLP conferences
